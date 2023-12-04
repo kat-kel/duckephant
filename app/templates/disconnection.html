@@ -1,0 +1,11 @@
+{% extends "base.html" %} {% block content %}
+<h1>Disconnect</h1>
+<div>
+  <p>Disconnect user.</p>
+</div>
+<form action="" method="post" novalidate>
+  {{ form.hidden_tag() }}
+  <p>{{ form.submit() }}</p>
+</form>
+
+{% endblock %}

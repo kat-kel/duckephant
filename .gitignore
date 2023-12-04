@@ -1,0 +1,5 @@
+**/__pycache__
+*.flaskenv
+*.python-version
+**.egg-info
+**build
