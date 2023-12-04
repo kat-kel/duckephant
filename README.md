@@ -7,7 +7,7 @@ Once you provide the information necessary to connect to the server-based, Postg
 Then, if you want to continue working in SQL, you can build tables from the downloaded data files in DuckDB's in-process database system.
 At which point, you can click to open a Jupyter notebook in another tab or directly execute queries using DuckDB's innovative and lightning-fast speed, designed for experimentation and analysis.
 
-`duckephant` strives to get the beat of both worlds. On the one hand, PostgreSQL's reliable, server-baded data management system, and on the other hand, DuckDB's highly-efficient vectorized querying.
+`duckephant` strives to get the best of both worlds. On the one hand, PostgreSQL's reliable, server-baded data management system, and on the other hand, DuckDB's highly-efficient vectorized querying.
 
 # Install
 
