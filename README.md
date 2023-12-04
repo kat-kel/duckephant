@@ -1,6 +1,6 @@
 # Duckephant
 
-Part duck / in-process database (DuckDB) and part elephant / server-based database (Postgres), `duckephant` is a REST API written in Flask designed to facilitate experimental data manipulation in a user-friendly way.
+Part duck (DuckDB) and part elephant (Postgres), `duckephant` is a REST API designed to facilitate experiments and analyses of data stored in a server-based database (PostgreSQL) while leveraging the speed and efficiency of in-process databases (DuckDB).
 
 # Install
 
